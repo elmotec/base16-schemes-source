@@ -7,7 +7,7 @@ default: https://github.com/chriskempson/base16-default-schemes
 #atlas: https://github.com/ajlende/base16-atlas-scheme
 #black-metal: https://github.com/metalelf0/base16-black-metal-scheme
 #brogrammer: https://github.com/piggyslasher/base16-brogrammer-scheme
-#brushtrees: https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme
+brushtrees: https://github.com/WhiteAbeLincoln/base16-brushtrees-scheme
 #circus: https://github.com/stepchowfun/base16-circus-scheme
 #classic: https://github.com/detly/base16-classic-scheme
 #codeschool: https://github.com/blockloop/base16-codeschool-scheme
@@ -20,7 +20,7 @@ default: https://github.com/chriskempson/base16-default-schemes
 #dirtysea: https://github.com/tartansandal/base16-dirtysea-scheme
 #dracula: https://github.com/dracula/base16-dracula-scheme
 #edge: https://github.com/cjayross/base16-edge-schemes
-#equilibrium: https://github.com/carloabelli/base16-equilibrium-scheme
+equilibrium: https://github.com/carloabelli/base16-equilibrium-scheme
 #espresso: https://github.com/alexmirrington/base16-espresso-scheme
 #eva: https://github.com/kjakapat/base16-eva-scheme
 #framer: https://github.com/jssee/base16-framer-scheme
